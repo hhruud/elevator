@@ -1,0 +1,32 @@
+C:\Users\hauks\source\repos\Ny mappe\bin\Debug\net5.0\Ny mappe.exe
+C:\Users\hauks\source\repos\Ny mappe\bin\Debug\net5.0\Ny mappe.deps.json
+C:\Users\hauks\source\repos\Ny mappe\bin\Debug\net5.0\Ny mappe.runtimeconfig.json
+C:\Users\hauks\source\repos\Ny mappe\bin\Debug\net5.0\Ny mappe.runtimeconfig.dev.json
+C:\Users\hauks\source\repos\Ny mappe\bin\Debug\net5.0\Ny mappe.dll
+C:\Users\hauks\source\repos\Ny mappe\bin\Debug\net5.0\ref\Ny mappe.dll
+C:\Users\hauks\source\repos\Ny mappe\bin\Debug\net5.0\Ny mappe.pdb
+C:\Users\hauks\source\repos\Ny mappe\obj\Debug\net5.0\Ny mappe.csprojAssemblyReference.cache
+C:\Users\hauks\source\repos\Ny mappe\obj\Debug\net5.0\Ny mappe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hauks\source\repos\Ny mappe\obj\Debug\net5.0\Ny mappe.AssemblyInfoInputs.cache
+C:\Users\hauks\source\repos\Ny mappe\obj\Debug\net5.0\Ny mappe.AssemblyInfo.cs
+C:\Users\hauks\source\repos\Ny mappe\obj\Debug\net5.0\Ny mappe.csproj.CoreCompileInputs.cache
+C:\Users\hauks\source\repos\Ny mappe\obj\Debug\net5.0\Ny mappe.dll
+C:\Users\hauks\source\repos\Ny mappe\obj\Debug\net5.0\ref\Ny mappe.dll
+C:\Users\hauks\source\repos\Ny mappe\obj\Debug\net5.0\Ny mappe.pdb
+C:\Users\hauks\source\repos\Ny mappe\obj\Debug\net5.0\Ny mappe.genruntimeconfig.cache
+C:\Users\hauks\source\repos\Elevator\bin\Debug\net5.0\Ny mappe.exe
+C:\Users\hauks\source\repos\Elevator\bin\Debug\net5.0\Ny mappe.deps.json
+C:\Users\hauks\source\repos\Elevator\bin\Debug\net5.0\Ny mappe.runtimeconfig.json
+C:\Users\hauks\source\repos\Elevator\bin\Debug\net5.0\Ny mappe.runtimeconfig.dev.json
+C:\Users\hauks\source\repos\Elevator\bin\Debug\net5.0\Ny mappe.dll
+C:\Users\hauks\source\repos\Elevator\bin\Debug\net5.0\ref\Ny mappe.dll
+C:\Users\hauks\source\repos\Elevator\bin\Debug\net5.0\Ny mappe.pdb
+C:\Users\hauks\source\repos\Elevator\obj\Debug\net5.0\Ny mappe.csprojAssemblyReference.cache
+C:\Users\hauks\source\repos\Elevator\obj\Debug\net5.0\Ny mappe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hauks\source\repos\Elevator\obj\Debug\net5.0\Ny mappe.AssemblyInfoInputs.cache
+C:\Users\hauks\source\repos\Elevator\obj\Debug\net5.0\Ny mappe.AssemblyInfo.cs
+C:\Users\hauks\source\repos\Elevator\obj\Debug\net5.0\Ny mappe.csproj.CoreCompileInputs.cache
+C:\Users\hauks\source\repos\Elevator\obj\Debug\net5.0\Ny mappe.dll
+C:\Users\hauks\source\repos\Elevator\obj\Debug\net5.0\ref\Ny mappe.dll
+C:\Users\hauks\source\repos\Elevator\obj\Debug\net5.0\Ny mappe.pdb
+C:\Users\hauks\source\repos\Elevator\obj\Debug\net5.0\Ny mappe.genruntimeconfig.cache
