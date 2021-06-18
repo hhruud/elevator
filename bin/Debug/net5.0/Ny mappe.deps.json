@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "Ny mappe/1.0.0": {
+      "Elevator/1.0.0": {
         "runtime": {
           "Ny mappe.dll": {}
         }
@@ -14,7 +14,7 @@
     }
   },
   "libraries": {
-    "Ny mappe/1.0.0": {
+    "Elevator/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

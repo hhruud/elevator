@@ -8,11 +8,12 @@ namespace Elevator
         static void Main(string[] args)
         {
             ElevatorMethods elevator = new ElevatorMethods();
-            bool start = true;
-            while(start) {
-                elevator.showElevatorControllPanel();
+            
+            int currentFloor = 1;
+            
+            while(currentFloor > 0 && currentFloor < 7) {
+                currentFloor = elevator.gotoFloor(currentFloor);
             }
-
             Console.WriteLine("Bye");
             
         }
