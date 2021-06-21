@@ -7,6 +7,7 @@ namespace Elevator
     {
         static void Main(string[] args)
         {
+           
             ElevatorMethods elevator = new ElevatorMethods();
             
             int currentFloor = 1;

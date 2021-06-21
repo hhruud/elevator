@@ -7,7 +7,6 @@ namespace ElevatorLibrary
 {
     public class ElevatorMethods
     {
-
         public int gotoFloor(int currentFloor)
         {
             var direction = "";
@@ -32,16 +31,12 @@ namespace ElevatorLibrary
 
                 Console.WriteLine("Going " + direction + " to " + floorNumber + numberplace(floorNumber) + " floor");
                 var time = estimatedTime(floorNumber, currentFloor);
+
                 Console.ForegroundColor = ConsoleColor.Red;
-                for (int a = time; a >= 0; a--)
-                {
-                    Console.SetCursorPosition(0, 2);
-                    Console.Write("Estimated time is... {0} seconds", a);
-                    Console.Write("Press any key, to STOP");
-                    Thread.Sleep(1000);
-                }
+                Console.Write($"Estimated time is... {time} seconds\n");
+                Console.Write("Press any key, to STOP");
+
                 Console.ForegroundColor = ConsoleColor.Gray;
-                
                 Console.Clear();
                 return floorNumber;
             }
@@ -113,7 +108,6 @@ namespace ElevatorLibrary
                 default:
                     place = "th";
                     break;
-
             }
             return place;
         }
